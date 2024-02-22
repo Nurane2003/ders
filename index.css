@@ -1,0 +1,127 @@
+.test{
+    border-style: groove;
+    width: 235px;
+    height: 300px;
+    border-radius: 15px;
+
+}
+.test h3{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    
+   
+}
+.test h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 33px;
+    margin-top: -20px;
+}
+.test p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
+    margin-top: -18px;
+
+
+}
+.test button{
+    text-align: center;
+    margin-left: 70px;
+    background-color: chocolate;
+    color: antiquewhite;
+    border-radius: 20px;
+    padding: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+
+}
+
+p{
+    margin: 30px;
+}
+.test2{
+    border-style: groove;
+    width: 235px;
+    height: 300px;
+    border-radius: 15px;
+
+
+}
+.test2 h3{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+}
+.test2 h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 33px;
+    margin-top: -20px;
+}
+.test2 p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(48, 87, 87);
+    margin-top: -18px;
+}
+.test2 button{
+    text-align: center;
+    margin-left: 70px;
+    background-color: chocolate;
+    color: antiquewhite;
+    border-radius: 20px;
+    padding: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.test3{
+    border-style: groove;
+    width: 235px;
+    height: 300px;
+    border-radius: 15px;
+}
+.test3 h3{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+
+}
+.test3 h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 33px;
+    margin-top: -20px;
+
+}
+.test3 p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(48, 87, 87);
+    margin-top: -18px;
+}
+.test3 button{
+    text-align: center;
+    margin-left: 70px;
+    background-color: chocolate;
+    color: antiquewhite;
+    border-radius: 20px;
+    padding: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.end{
+    display: flex;
+    gap: 90px;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 650px;
+}
+
+
+
+
